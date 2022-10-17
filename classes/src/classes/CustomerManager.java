@@ -10,4 +10,4 @@ public class CustomerManager {
 	}
 	public void Update() {
 		System.out.println("müşteri güncellendi");
-	}
+	} }
